@@ -139,7 +139,7 @@ def main(arguments):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Generate random passwords.')
     parser.add_argument('--num', type=int, default=1, help='Number of passwords to generate')
-    parser.add_argument('--use-adjective', action='store_true', help='Inclide an adjective at the beginning of the password; results will be in camelCase')
+    parser.add_argument('--use-adjective', action='store_true', help='Include an adjective at the beginning of the password; results will be in camelCase')
     parser.add_argument('--force-lowercase', action='store_true', help='Force all passwords to be lowercase')
     parser.add_argument('--min-word-length', type=int, default=0, help='Minimum length of the word part of the password')
     parser.add_argument('--max-word-length', type=int, default=sys.maxsize, help='Maximum length of the word part of the password')
