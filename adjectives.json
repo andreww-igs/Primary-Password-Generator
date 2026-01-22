@@ -1,0 +1,47 @@
+{
+    "alive": [
+        "funny",
+        "happy",
+        "kind",
+        "lucky",
+        "fast",
+        "quick",
+        "slow",
+        "calm",
+        "smart",
+        "strong",
+        "clever",
+        "brave",
+        "small",
+        "tiny",
+        "little"
+    ],
+    "inanimate": [
+        "big",
+        "small",
+        "great",
+        "tall",
+        "short",
+        "thin",
+        "light",
+        "heavy"
+    ],
+    "food": [
+        "tasty",
+        "yummy",
+        "sweet",
+        "fresh"
+    ],
+    "drink": [
+        "cold",
+        "fresh",
+        "sweet",
+        "sour"
+    ],
+    "nature": [
+        "big",
+        "pretty",
+        "nice",
+        "green"
+    ]
+}

@@ -1,0 +1,118 @@
+[
+    {
+        "name": "school",
+        "words": [
+            "pencil",
+            "crayon",
+            "glue",
+            "paper",
+            "class"
+        ]
+    },
+    {
+        "name": "animals",
+        "adjectives": "alive",
+        "words": [
+            "cat",
+            "dog",
+            "fish",
+            "bird",
+            "cow",
+            "sheep",
+            "horse",
+            "goat",
+            "pig",
+            "duck",
+            "fox",
+            "wolf",
+            "bear",
+            "lion",
+            "ant",
+            "bat",
+            "crab",
+            "deer",
+            "frog"
+        ]
+    },
+    {
+        "name": "food",
+        "adjectives": "food",
+        "words": [
+            "food",
+            "apple",
+            "bread",
+            "rice",
+            "cake",
+            "egg"
+        ]
+    },
+    {
+        "name": "drink",
+        "adjectives": "drink",
+        "words": [
+            "drink",
+            "juice",
+            "lemonade"
+        ]
+    },
+    {
+        "name": "actions",
+        "words": [
+            "jump",
+            "swim",
+            "dance",
+            "sing",
+            "read",
+            "write"
+        ]
+    },
+    {
+        "name": "colours",
+        "words": [
+            "red",
+            "blue",
+            "green",
+            "yellow",
+            "black",
+            "white",
+            "purple",
+            "grey",
+            "brown",
+            "orange",
+            "pink"
+        ]
+    },
+    {
+        "name": "relationships",
+        "words": [
+            "family",
+            "mother",
+            "father",
+            "sister",
+            "brother",
+            "cousin",
+            "aunt",
+            "uncle"
+        ]
+    },
+    {
+        "name": "weather",
+        "words": [
+            "sun",
+            "rain",
+            "cloud",
+            "wind",
+            "snow",
+            "cold"
+        ]
+    },
+    {
+        "name": "nature",
+        "adjectives": "nature",
+        "words": [
+            "tree",
+            "flower",
+            "garden"
+        ]
+    }
+]
